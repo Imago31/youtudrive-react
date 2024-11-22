@@ -95,6 +95,8 @@
     color: orange;
     display: none;
     transition: 0.3s;
+    border: none;
+    background: none;
   }
   
   .openMenu:hover{
