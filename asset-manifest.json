@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtudrive-react/static/css/main.9b8f37ac.css",
+    "main.js": "/youtudrive-react/static/js/main.ffabd001.js",
+    "index.html": "/youtudrive-react/index.html",
+    "main.9b8f37ac.css.map": "/youtudrive-react/static/css/main.9b8f37ac.css.map",
+    "main.ffabd001.js.map": "/youtudrive-react/static/js/main.ffabd001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8f37ac.css",
+    "static/js/main.ffabd001.js"
+  ]
+}
