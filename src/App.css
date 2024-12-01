@@ -115,6 +115,17 @@
     border: 2px solid red;
     color: red;
   }
+
+  .words{
+    padding: 15px;
+    border-radius: 5px;
+    background: orange;
+    margin-top: 30px;
+    color: #272525;
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+  }
   
   @media(max-width: 1065px){
     iframe{
@@ -139,6 +150,9 @@
     }
     .videoSection{
         margin-left: 250px;
+    }
+    .words{
+      font-size: 16px;
     }
   }
   
