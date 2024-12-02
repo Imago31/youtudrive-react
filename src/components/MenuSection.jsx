@@ -9,7 +9,7 @@ function MenuSection({handleclick,mobileMenuHandle,mobielMenuButton,type}) {
               <button id='en' onClick={handleclick} className="menuButton" style={type=="en" ? {color:"red",border: "2px solid red"} : {color:"orange",border: "2px solid orange"}}>English</button>
               <button id='ru' onClick={handleclick} className="menuButton" style={type=="ru" ? {color:"red",border: "2px solid red"} : {color:"orange",border: "2px solid orange"}}>Russian</button>
               <button id='car' onClick={handleclick} className="menuButton" style={type=="car" ? {color:"red",border: "2px solid red"} : {color:"orange",border: "2px solid orange"}}>Cars</button>
-              <a className="words" href="/words.pdf" download="words.pdf">Download words</a>
+              <a className="words" href="/youtudrive-react/words.pdf" download="words.pdf">Download words</a>
             </div>
         </div>
         <div className="mobileMenu">
@@ -20,7 +20,7 @@ function MenuSection({handleclick,mobileMenuHandle,mobielMenuButton,type}) {
             <button id='en' onClick={handleclick} className="menuButton" style={type=="en" ? {color:"red",border: "2px solid red"} : {color:"orange",border: "2px solid orange"}}>English</button>
             <button id='ru' onClick={handleclick} className="menuButton" style={type=="ru" ? {color:"red",border: "2px solid red"} : {color:"orange",border: "2px solid orange"}}>Russian</button>
             <button id='car' onClick={handleclick} className="menuButton" style={type=="car" ? {color:"red",border: "2px solid red"} : {color:"orange",border: "2px solid orange"}}>Cars</button>
-            <a className="words" href="/words.pdf" download="words.pdf">Download words</a>
+            <a className="words" href="/youtudrive-react/words.pdf" download="words.pdf">Download words</a>
           </div>
         </div>
       </div>
