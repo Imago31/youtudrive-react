@@ -7,7 +7,7 @@ import VideoSection from './components/VideoSection';
 function App() {
 
   useEffect(() => {
-    axios.get('/videoData.json')
+    axios.get('/youtudrive-react/videoData.json')
     .then(response => setVideo(response.data))
     .catch(error => console.error('Error loading data:', error));
     }, []);
