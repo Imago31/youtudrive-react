@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/youtudrive-react/static/css/main.9b8f37ac.css",
-    "main.js": "/youtudrive-react/static/js/main.4807beb9.js",
+    "main.js": "/youtudrive-react/static/js/main.f037f4d7.js",
     "index.html": "/youtudrive-react/index.html",
     "main.9b8f37ac.css.map": "/youtudrive-react/static/css/main.9b8f37ac.css.map",
-    "main.4807beb9.js.map": "/youtudrive-react/static/js/main.4807beb9.js.map"
+    "main.f037f4d7.js.map": "/youtudrive-react/static/js/main.f037f4d7.js.map"
   },
   "entrypoints": [
     "static/css/main.9b8f37ac.css",
-    "static/js/main.4807beb9.js"
+    "static/js/main.f037f4d7.js"
   ]
 }
